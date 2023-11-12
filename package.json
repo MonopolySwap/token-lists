@@ -1,5 +1,5 @@
 {
-  "name": "@monopolyswap/token-lists",
+  "name": "monopolyswap-token-lists",
   "author": "Uniswap Labs <contact@uniswap.org> (https://uniswap.org)",
   "description": "📚 The Token Lists specification",
   "version": "0.1.0",

@@ -2,7 +2,7 @@
   "name": "@monopolyswap/token-lists",
   "author": "Uniswap Labs <contact@uniswap.org> (https://uniswap.org)",
   "description": "📚 The Token Lists specification",
-  "version": "2.0.0",
+  "version": "0.1.0",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
